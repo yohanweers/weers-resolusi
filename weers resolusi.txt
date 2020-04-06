@@ -1,3 +1,5 @@
 Weers resolusi
 - bisa menggunakan github
 - bisa membuat repo github
+- paham menggunakan github
+- bisa mengerti cara kerja github
